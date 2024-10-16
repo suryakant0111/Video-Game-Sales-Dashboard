@@ -18,8 +18,7 @@ Make sure you have Python installed on your system. You can download Python from
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/videogame-sales-dashboard.git
-   cd videogame-sales-dashboard
+   https://github.com/suryakant0111/Video-Game-Sales-Dashboard/tree/main
 Create a virtual environment (optional but recommended):
 
 bash
@@ -66,5 +65,5 @@ git commit -m "Initial commit of video game sales dashboard"
 Add the remote repository and push the changes:
 bash
 Copy code
-git remote add origin https://github.com/yourusername/videogame-sales-dashboard.git
+git remote add origin https://github.com/suryakant0111/Video-Game-Sales-Dashboard/tree/main
 git push -u origin master
